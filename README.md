@@ -1,6 +1,6 @@
 # Product Sales Review Dashboard
 
-Here, I have created a Power BI Dashboard of Global Superstore where I used sales data and showed some important visualization along with patterns and trends that would help the leadership to make an informed and accurate decision.
+Here, I have created a Power BI Dashboard of Global Superstore where I used sales data and showed some important visualization along with patterns and trends that would help the leadership to make informed and accurate decisions.
 
 ## Learnings
 
